@@ -4,6 +4,12 @@
     src: url("../_fonts/bubblegum-sans-regular.otf");
 }
 
+/*MODAL PRODUTOS----------------------------------------------------*/
+div#exampleModalLong{/*modal de produtos*/
+    width: 100%;
+    background-color: black;
+}
+
 /*PRODUTOS----------------------------------------------------*/
 div.produtos{/*container de produtos*/
     margin-top: 50px;
